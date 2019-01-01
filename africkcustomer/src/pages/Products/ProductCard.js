@@ -82,7 +82,7 @@ export default function ProductCard(props) {
               </select>
             </div>
             <div className={"flex flex-row"}>
-              <p>In stock:</p>
+              <p>No In stock:</p>
               <p>20</p>
             </div>
           </div>
