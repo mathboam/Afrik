@@ -15,7 +15,7 @@ module.exports = {
       colors: {
         grayBackground: "#f2f2f2",
         secondary: "#ffed4a",
-        danger: "#e3342f",
+        transparent: "#000009",
         brown: "#632d00",
       },
     },
