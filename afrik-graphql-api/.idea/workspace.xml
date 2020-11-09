@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6c65fc6-8a7c-4bca-9325-2b179632413b" name="Default Changelist" comment="" />
+    <list default="true" id="f6c65fc6-8a7c-4bca-9325-2b179632413b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../africkcustomer/src/components/Filter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../africkcustomer/src/components/NavBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../africkcustomer/src/components/Options.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../africkcustomer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../africkcustomer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../africkcustomer/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/../africkcustomer/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../africkcustomer/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../africkcustomer/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../africkcustomer/src/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../africkcustomer/src/components/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../africkcustomer/src/pages/Products/ProductCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/../africkcustomer/src/pages/Products/ProductCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../africkcustomer/src/pages/Products/Products.js" beforeDir="false" afterPath="$PROJECT_DIR$/../africkcustomer/src/pages/Products/Products.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../africkcustomer/src/tailwind.output.css" beforeDir="false" afterPath="$PROJECT_DIR$/../africkcustomer/src/tailwind.output.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../africkcustomer/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../africkcustomer/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/domains/Payment/typeDefs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/domains/Payment/typeDefs.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +47,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1gd7rCmTmc8zH4nSQFG4ZgciZKx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,6 +65,7 @@
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
     <property name="run.prettier.on.save" value="true" />
     <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -62,11 +99,29 @@
       <workItem from="1599173889451" duration="1178000" />
       <workItem from="1599212573218" duration="873000" />
       <workItem from="1599239253206" duration="2035000" />
+      <workItem from="1546323132590" duration="1597000" />
+      <workItem from="1546333829720" duration="126000" />
+      <workItem from="1546301036374" duration="104000" />
+      <workItem from="1604404215000" duration="774000" />
+      <workItem from="1604478784233" duration="12529000" />
+      <workItem from="1604500779871" duration="1483000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="221" y="89" key="SettingsEditor" timestamp="1599171399448">

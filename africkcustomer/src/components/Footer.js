@@ -3,7 +3,7 @@ import React from "react";
 export default function Footer(props) {
   return (
     <React.Fragment>
-      <footer className={"flex items-center flex-col"}>
+      <footer className={"flex items-center flex-col"} data-aos={"fade-up"}>
         <div
           className={
             "xl:flex xl:flex-row sm:flex sm:flex-col  xl:justify-center sm:justify-center md:flex md:flex-col md:justify-center  lg:flex lg:flex-col lg:justify-center"

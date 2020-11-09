@@ -112,8 +112,8 @@
 .productCard{
   box-shadow: 10px 14px 62px -36px rgba(0,0,0,0.75);
   z-index: 20;
-  width:320px;
-  height:280px;
+  width:250px;
+  height:230px;
   margin:10px;
   border-radius: 5%;
 }
@@ -132,8 +132,8 @@
 }
 
 .details{
-    width:320px;
-
+    width:250px;
+  margin:10px;
 }
 
 .App-link {
