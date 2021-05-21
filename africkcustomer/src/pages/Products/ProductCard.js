@@ -4,7 +4,10 @@ export default function ProductCard(props) {
   const [preview, setPreview] = useState("hidden");
   return (
     <React.Fragment>
-      <div className={"flex flex-col mt-10"} data-aos={"fade-up"}>
+      <div
+        className={"flex flex-col mt-10 bg-white shadow-sm rounded-md"}
+        data-aos={"fade-up"}
+      >
         <div className={"flex flex-row"}>
           <div
             className={
@@ -58,13 +61,15 @@ export default function ProductCard(props) {
         </div>
         <div className={"details relative flex flex-col"}>
           <div className={"flex flex-row flex-2"}>
-            <p
-              className={
-                "text-base tracking-tight leading-10 font-bold text-gray-900 sm:text-2xl sm:leading-none md:text-base"
-              }
-            >
-              Ring my bell Pointed dots
-            </p>
+            <span className={`flex-wrap  mt-6`}>
+              <span
+                className={
+                  "text-base tracking-tight leading-10 font-light text-gray-900 sm:text-2xl sm:leading-none md:text-base"
+                }
+              >
+                Ring my bell Pointed dotsasdasdas
+              </span>
+            </span>
             <div className={"flex flex-row justify-center items-center"}>
               <spanIn
                 className={

@@ -13,19 +13,10 @@ export default function Products(props) {
       <CheckOut />
 
       <div
-        className={"flex flex-wrap flex-row w-full justify-center itmes center"}
+        className={
+          "flex flex-wrap  bg-gray-100 flex-row w-full justify-center space-x-6 pb-6 items-center"
+        }
       >
-        <ProductCard />
-        <ProductCard />
-        <ProductCard />
-        <ProductCard />
-        <ProductCard />
-        <ProductCard />
-        <ProductCard />
-        <ProductCard />
-        <ProductCard />
-        <ProductCard />
-        <ProductCard />
         <ProductCard />
       </div>
 

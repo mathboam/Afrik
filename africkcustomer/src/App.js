@@ -2,8 +2,8 @@ import React, { useEffect } from "react";
 import "./App.css";
 import AOS from "aos";
 import "aos/dist/aos.css";
-// import Landing from "./pages/Landing/Landing";
-import Products from "./pages/Products";
+import Landing from "./pages/Landing/Landing";
+// import Products from "./pages/Products";
 
 function App() {
   useEffect(() => {
@@ -13,8 +13,8 @@ function App() {
   }, []);
   return (
     <React.Fragment>
-      {/*<Landing />*/}
-      <Products />
+      <Landing />
+      {/*<Products />*/}
     </React.Fragment>
   );
 }
